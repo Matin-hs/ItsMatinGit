@@ -33,5 +33,5 @@ I'm always open to new challenges and opportunities to grow. Let's connect and c
 ## Connect with me:
 - Email: [matin.hosseini7747@gmail.com](mailto:matin.hosseini7747@gmail.com)
 - Phone: +971 56 613 7817
-- Telegram: [@radon_dev](https://t.me/seniorsev)
+- Telegram: [@seniorsev](https://t.me/seniorsev)
 </div>
